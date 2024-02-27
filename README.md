@@ -8,6 +8,8 @@ Welcome to Quizzler, your straightforward mobile app for testing your knowledge 
 - **Simple and Intuitive Interface**: Enjoy a user-friendly interface designed for seamless navigation and gameplay.
 - **Flutter Compatibility**: Experience consistent performance and design across both iOS and Android platforms.
 - **Immediate Feedback**: Receive instant feedback on your answers to track your progress and improve your knowledge.
+  ![Simulator Screenshot - iPhone 15 - 2024-02-27 at 12 47 20](https://github.com/RNNivash/Quizzler/assets/90308206/f5cf4359-ef45-46c7-96eb-08a35781bc9e)
+  ![Simulator Screenshot - iPhone 15 - 2024-02-27 at 12 47 35](https://github.com/RNNivash/Quizzler/assets/90308206/c9024b27-1e45-45d1-aeeb-1ab030654c96)
 
 ## How to Play
 
